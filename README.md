@@ -1,7 +1,6 @@
 # Adaptive Human-Emulation Attack Engine (AHEA)
 
-AHEA is a safe, research-focused adversary emulator. It simulates attacker behavior (scan → fingerprint → post-ex → exfil), observes defender reactions, learns with reinforcement learning, and retrains an ML predictor using real run data. The engine visualizes evolving attack paths in an attack graph.
-
+AHEA is a safe adversary emulator that simulates attacker behavior in a lab environment. It learns from defender reactions using reinforcement learning, retrains its ML predictor with real run data, and visualizes evolving attack paths in a dynamic attack graph.
 ---
 
 ## ✨ Features
