@@ -11,6 +11,9 @@ AHEA is a safe adversary emulator that simulates attacker behavior in a lab envi
 
 ---
 
+![Attack Graph Visualization](Graph.png)
+
+
 ## 🚀 Quick Start
 
 ### 1. Install dependencies
