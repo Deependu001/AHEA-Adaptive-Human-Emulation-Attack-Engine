@@ -20,4 +20,3 @@ AHEA is a safe adversary emulator that simulates attacker behavior in a lab envi
 ```bash
 pip install -r requirements.txt
 
-![Attack Graph Visualization](Graph.png)
